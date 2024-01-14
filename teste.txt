@@ -1,1 +1,3 @@
-alo brasil
+Bootcamp Santander Cibersegurança 2023
+Módulo: Entendendo um Ransomware na Prática com Python
+Desafio: Criando um Ransomware com Python
